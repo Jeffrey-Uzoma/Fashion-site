@@ -68,6 +68,10 @@ https://www.pexels.com/@godisable-jacob-226636<br />
 ### Famous Quotes Used:
 "Fashion is the armour to survive the reality of everyday life."<br />
 
+Build a stunning Fashion Studio Website Landing page with React JS. 
+This website is created using locomotive-scroll for smooth scrolling.
+Also, GSAP and Framer-Motion for some custom animations and effects.
+
 "One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
