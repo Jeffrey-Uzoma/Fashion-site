@@ -1,4 +1,4 @@
-# 🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]
+# A Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]
 
 ![GitHub stars](https://img.shields.io/github/stars/codebucks27/wibe-studio-starter-files?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/codebucks27/wibe-studio-starter-files?style=social&logo=KashFlow&&label=Forks)&nbsp;&nbsp;
@@ -82,7 +82,6 @@ https://www.pexels.com/@godisable-jacob-226636<br />
 
 ### Famous Quotes Used:
 "Fashion is the armour to survive the reality of everyday life."<br />
--- bill cunningham
 
 "One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld<br />
 
